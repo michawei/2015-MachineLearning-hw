@@ -1,0 +1,16 @@
+Problems -
+
+17:	python 17.py
+	print average Ein
+	can plot a histogram
+
+18:	python 18.py
+	print average Eout
+	can plot a histogram
+
+19:	python 19.py
+	print Ein of the optimal decision stump
+	print the optimal decision stump
+
+20:	python 20.py
+	print Eout
