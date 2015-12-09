@@ -1,0 +1,28 @@
+Problems -
+
+使用 libsvm python 完成的
+此資料夾的 python檔案 和 train, test 檔案
+都必須放到 libsvm-3.20/python/ 資料夾下才可以執行
+
+15:	python 15.py
+	會畫圖和印出分別的 ||w||
+
+16:	python 16.py
+	會畫圖和印出分別的 Ein
+
+17:	python 17.py
+	會畫圖和印出分別的 alpha_sum
+
+18:	python 18.py
+	參考 http://www.csie.ntu.edu.tw/~cjlin/libsvm/faq.html#f4151
+	有更改 libsvm 裡面的內容，重新compile之後
+	得到所有的||w|| (train的過程會印出來)
+	把這些||w||拿出來取倒數就是margin的大小
+
+	另外用這個 distance 來畫圖
+
+19:	python 19.py
+	會畫圖和印出分別的 Eout
+
+20:	python 20.py
+	會畫圖和印出分佈
