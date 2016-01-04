@@ -1,0 +1,25 @@
+Problems -
+
+12:	python 12.py
+	會畫圖和印出 Ein(g1) 及 alpha 1
+
+14:	python 14.py
+	會畫圖和印出 Ein(G)
+
+15:	python 15.py
+	會畫圖和印出 U2 及 UT
+
+16:	python 16.py
+	會畫圖和印出 minimun epsilon
+
+17:	python 17.py
+	會畫圖和印出 Eout(g1)
+
+18:	python 18.py
+	會畫圖和印出 Eout(G)
+
+19:	python 19.py
+	會畫圖和印出分別產生最小 Ein 的組合方法
+
+20:	python 20.py
+	會畫圖和印出產生最小 Eout 的組合方法
